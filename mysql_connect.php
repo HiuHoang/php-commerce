@@ -4,7 +4,7 @@
 // This file also establishes a connection to MySQL and selects the database.
 
 // Set the database access information as constants.
-DEFINE('DB_USER', 'root');
+DEFINE('DB_USER', 'hieuhd');
 DEFINE('DB_PASSWORD', '123@123a');
 DEFINE('DB_HOST', '3.94.61.123');
 DEFINE('DB_NAME', 'ohnanastore');
