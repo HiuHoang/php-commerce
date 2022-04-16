@@ -4,9 +4,9 @@
 // This file also establishes a connection to MySQL and selects the database.
 
 // Set the database access information as constants.
-DEFINE ('DB_USER','root');
-DEFINE ('DB_PASSWORD','');
-DEFINE ('DB_HOST', 'localhost');
+DEFINE ('DB_USER','hieuhd');
+DEFINE ('DB_PASSWORD','123@123a');
+DEFINE ('DB_HOST', '3.94.61.123');
 DEFINE ('DB_NAME', 'ohnanastore');
 
 $dbc= mysqli_connect(DB_HOST, DB_USER, DB_PASSWORD) or die ("could not connect to mysql"); 
